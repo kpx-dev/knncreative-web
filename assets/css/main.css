@@ -1091,7 +1091,7 @@
 		-webkit-transition: color .2s ease-in-out;
 		-ms-transition: color .2s ease-in-out;
 		transition: color .2s ease-in-out;
-		color: #43B3E0;
+		color: #3399ff;
 		text-decoration: underline;
 	}
 
@@ -1353,7 +1353,7 @@
 		text-shadow: -1px -1px 0.5px rgba(0, 0, 0, 0.5);
 		overflow: hidden;
 		box-shadow: inset 0px 0px 0px 1px rgba(0, 0, 0, 0.5), inset 0px 2px 1px 0px rgba(255, 255, 255, 0.75);
-		background-color: #43B3E0;
+		background-color: #3399ff;
 	}
 
 		input[type="button"]:hover,
