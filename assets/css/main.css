@@ -48,6 +48,10 @@
 		-webkit-text-size-adjust: none;
 	}
 
+	#privacy{
+		text-align: left;
+	}
+
 /* Box Model */
 
 	*, *:before, *:after {
