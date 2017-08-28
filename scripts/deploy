@@ -4,3 +4,4 @@ aws_region=us-east-1
 s3_bucket=knncreative.com
 
 aws s3 cp . s3://$s3_bucket --recursive --exclude ".git*"
+aws cloudfront create-invalidation --distribution-id E1DHNWPUPNLFFZ --paths '/*'
